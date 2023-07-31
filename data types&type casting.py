@@ -1,0 +1,18 @@
+#taking input
+a=input("enter your name:-")
+print(a)
+b=(input("enter your name"))
+print(b)
+#type casting
+a=int(input("enter your mobile number"))
+print(a)
+b=int(input("enter your alternative mobile number"))
+print(b)
+c=float(input("enter your marks"))
+print(c)
+d=float(input("enter your percentage"))
+print(d)
+c=eval(input("enter your marks"))
+print(c)
+d=eval(input("enter your percentage"))
+print(d)
